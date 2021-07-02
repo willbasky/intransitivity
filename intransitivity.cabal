@@ -63,6 +63,11 @@ library
   import:              common-options
   hs-source-dirs:      src
   exposed-modules:     Intransitivity
+  build-depends:       record-dot-preprocessor  ^>=0.2.11
+                     , record-hasfield
+                     , random
+                     , async
+                     , stm
 
 executable intransitivity
   import:              common-options

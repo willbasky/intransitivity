@@ -1,7 +1,6 @@
 module Main (main) where
 
-import Intransitivity (projectName)
-
+import Intransitivity (intransitive)
 
 main :: IO ()
-main = putStrLn ("Executable for " ++ projectName)
+main = intransitive
