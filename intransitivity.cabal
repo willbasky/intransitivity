@@ -7,7 +7,7 @@ description:
     See [README.md](https://github.com/metaxis/intransitivity#intransitivity) for more details.
 homepage:            https://github.com/metaxis/intransitivity
 bug-reports:         https://github.com/metaxis/intransitivity/issues
-license:             UNLICENSE
+license:             Unlicense
 license-file:        UNLICENSE
 author:              metaxis
 maintainer:          metaxis <willgame@mail.ru>
