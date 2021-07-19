@@ -7,8 +7,8 @@ description:
     See [README.md](https://github.com/metaxis/intransitivity#intransitivity) for more details.
 homepage:            https://github.com/metaxis/intransitivity
 bug-reports:         https://github.com/metaxis/intransitivity/issues
-license:             Apache-2.0
-license-file:        LICENSE
+license:             UNLICENSE
+license-file:        UNLICENSE
 author:              metaxis
 maintainer:          metaxis <willgame@mail.ru>
 copyright:           2021 metaxis
